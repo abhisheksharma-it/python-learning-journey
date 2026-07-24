@@ -1,5 +1,4 @@
 import requests
-
 class WeatherApp:
     def __init__(self, city):
         self.city = city
